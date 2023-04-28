@@ -1,6 +1,5 @@
 .profile {
     background-color: #fff;
-    /* padding: 40px 0px; */
     width: 380px;
     height: 480px;
     position: relative;
@@ -38,7 +37,6 @@
     border-left: 2px solid #e0e0e0;
 }
 .stats li {
-    
     padding: 20px 0px;
     display: flex;
     flex-direction: column;
