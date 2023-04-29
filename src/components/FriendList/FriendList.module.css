@@ -1,12 +1,12 @@
-.friendList {
+/* .friendList {
     margin-top: 50px;
     display: flex;
     flex-direction: column;
     gap: 10px;
     width: 380px;
-}
+} */
 
-.item {
+/* .item {
     display: flex;
     gap: 15px;
     align-items: center;
@@ -32,4 +32,4 @@
 .name {
     font-weight: 700;
     color: var(--secondary-text-color);
-}
+} */
